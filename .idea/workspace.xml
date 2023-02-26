@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b602ffc8-9ab2-4700-8474-9966328196ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AoC_2022/CalorieCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AoC_2022/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/caloriesList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/caloriesList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/bahar/Documents/workspace/Advent-of-code-2022/src/main/java/org/example/se/nackademin",
+    "last_opened_file_path": "C:/Users/bahar/Documents/workspace/adventOfCode/Advent-of-code-2022",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +56,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -179,12 +169,25 @@
       <workItem from="1677396758809" duration="11281000" />
       <workItem from="1677413247888" duration="1117000" />
       <workItem from="1677436078321" duration="7024000" />
-      <workItem from="1677449525245" duration="380000" />
+      <workItem from="1677449525245" duration="668000" />
+      <workItem from="1677450585728" duration="1371000" />
     </task>
+    <task id="LOCAL-00001" summary="- Advent of code 2022 - Day1">
+      <created>1677450181537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677450181537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Advent of code 2022 - Day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Advent of code 2022 - Day1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
