@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b602ffc8-9ab2-4700-8474-9966328196ab" name="Changes" comment="">
+    <list default="true" id="b602ffc8-9ab2-4700-8474-9966328196ab" name="Changes" comment="- Advent of code 2022 - Day1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +170,7 @@
       <workItem from="1677413247888" duration="1117000" />
       <workItem from="1677436078321" duration="7024000" />
       <workItem from="1677449525245" duration="668000" />
-      <workItem from="1677450585728" duration="1371000" />
+      <workItem from="1677450585728" duration="2460000" />
     </task>
     <task id="LOCAL-00001" summary="- Advent of code 2022 - Day1">
       <created>1677450181537</created>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677450181537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Advent of code 2022 - Day1">
+      <created>1677452060798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677452060798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
